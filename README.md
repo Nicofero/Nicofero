@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I mainly work in different **Quantum Computing** projects like the ones you can see in my profile.
 <!--
 **Nicofero/Nicofero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![My GitHub Language Stats](https://github-readme-stats-ten-henna.vercel.app/api/top-langs/?username=nicofero&langs_count=5&theme=tokyonight)]()
